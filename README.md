@@ -1,2 +1,0 @@
-# kanoe
-um repósitório
